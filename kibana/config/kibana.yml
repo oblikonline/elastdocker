@@ -4,7 +4,7 @@
 #
 server.name: kibana
 server.host: "0.0.0.0"
-server.publicBaseUrl: https://elk.oblik.online
+server.publicBaseUrl: https://kibana.oblik.online
 # Elasticsearch Connection
 elasticsearch.hosts: [ "${ELASTICSEARCH_HOST_PORT}" ]
 
